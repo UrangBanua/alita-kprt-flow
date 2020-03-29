@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5ee10f75-ce14-455d-b187-474699ce4cd3",
+    "data": [
+      {
+        "text": "siapa bos kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "301737e6-717d-4166-bd66-2bacc1abc71f",
+    "data": [
+      {
+        "text": "menurut kamu siapa bos kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcb7be90-2cf7-41cb-a798-d30c8e6bac6e",
+    "data": [
+      {
+        "text": "aku yang harusnya jadi bos kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cac74385-330d-4681-9516-16d08758a350",
+    "data": [
+      {
+        "text": "siapa atasan kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98dca291-be42-4fd1-802b-274b12c66b39",
+    "data": [
+      {
+        "text": "siapa pemilik kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ae3d7a4-f0df-44a1-a8a9-1dc475061e70",
+    "data": [
+      {
+        "text": "siapa bosnya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bde0983-972a-4d1b-88a6-294b5badb459",
+    "data": [
+      {
+        "text": "kamu bekerja untuk siapa",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

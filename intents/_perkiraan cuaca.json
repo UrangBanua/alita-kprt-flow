@@ -1,0 +1,79 @@
+{
+  "id": "2c87cd57-50d7-4b84-bc6a-86911a5e7d1c",
+  "name": "_perkiraan cuaca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1456705b-a829-4217-9b42-24a456af8ac2",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "kapan waktunya ?"
+            },
+            {
+              "lang": "id",
+              "value": "hari apa ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "78581feb-9573-4d07-ae64-f6c44a89da7e",
+          "required": true,
+          "dataType": "@lokasi",
+          "name": "lokasi",
+          "value": "$lokasi",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "diwilayah mana ?"
+            },
+            {
+              "lang": "id",
+              "value": "dimana lokasinya ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "condition": "",
+          "speech": [
+            "cuaca disekitar wilayah $lokasi perkiraan $date-time cendrung cerah",
+            "perkiraan $date-time cuaca cendrung cerah disekitar $lokasi"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

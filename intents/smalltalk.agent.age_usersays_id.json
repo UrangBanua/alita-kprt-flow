@@ -1,0 +1,74 @@
+[
+  {
+    "id": "376240f6-ee9e-4585-ad9d-e3736a1be986",
+    "data": [
+      {
+        "text": "aku mau tahu umur kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "720bfee6-ec63-42de-88b6-7c100e90e8c7",
+    "data": [
+      {
+        "text": "berapa umur kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "471d8fe4-79bd-437a-9d32-de9f995ab95d",
+    "data": [
+      {
+        "text": "kamu umur berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b97492a-6c31-4a5e-9294-e9675fcca80f",
+    "data": [
+      {
+        "text": "berapa usia kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db38d393-35ec-4f3d-9fa3-040378b872c2",
+    "data": [
+      {
+        "text": "apa kamu sudah 21 tahun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f95dfd3-7214-4e9e-85d3-9456e5e75fff",
+    "data": [
+      {
+        "text": "sudah umur berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

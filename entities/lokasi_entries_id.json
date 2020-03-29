@@ -1,0 +1,29 @@
+[
+  {
+    "value": "jakarta",
+    "synonyms": [
+      "jakarta"
+    ]
+  },
+  {
+    "value": "rantau",
+    "synonyms": [
+      "rantau",
+      "tapin"
+    ]
+  },
+  {
+    "value": "banjarmasin",
+    "synonyms": [
+      "banjarmasin",
+      "banjarbaru"
+    ]
+  },
+  {
+    "value": "kalimantan selatan",
+    "synonyms": [
+      "kalimantan selatan",
+      "kal-sel"
+    ]
+  }
+]

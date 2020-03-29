@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1b729b08-e49a-47ea-a8e5-f32101481136",
+    "data": [
+      {
+        "text": "kapan kamu merayakan ulang tahun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f2958f4-a6ee-4b4e-8035-1a75177b4f32",
+    "data": [
+      {
+        "text": "tanggal ulang tahun kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec3977bc-5590-41c2-8071-3115eac58052",
+    "data": [
+      {
+        "text": "kamu lahirnya kapan",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e30753b8-b692-4482-82d9-d9e30b90e71d",
+    "data": [
+      {
+        "text": "kapan kamu lahir",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1f1e56c-e8a7-494c-bf8f-11528593205d",
+    "data": [
+      {
+        "text": "birthday kamu kapan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad32f1d5-3afc-4835-9f03-34b768f6bc75",
+    "data": [
+      {
+        "text": "tanggal lahir kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a50516ec-3396-4549-a0cf-470bbb88c950",
+    "data": [
+      {
+        "text": "kapan ulang tahun kamu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

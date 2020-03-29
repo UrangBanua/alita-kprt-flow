@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1ec3a284-6399-4f41-a0ac-32c0dc89e1d2",
+    "data": [
+      {
+        "text": "belajar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a13afb4d-4d28-4cd1-b620-25300a529d36",
+    "data": [
+      {
+        "text": "kamu harus belajar lebih keras",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "017eee6c-e801-4f56-b27b-294f4a29c4a5",
+    "data": [
+      {
+        "text": "kamu harus belajar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59170025-a0cd-4198-9239-8d951bee88dd",
+    "data": [
+      {
+        "text": "jadi pintar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ee9f8cc-6b32-44c6-8f99-255b6c241324",
+    "data": [
+      {
+        "text": "jadi lebih pintar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb94887f-4fc2-4154-9446-c931aa881c91",
+    "data": [
+      {
+        "text": "jadi lebih cerdas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31736a0e-3613-4d7a-a46f-39909613c1fb",
+    "data": [
+      {
+        "text": "jadi cerdas",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aae77088-a2a5-4853-990d-d1e071adfefc",
+    "data": [
+      {
+        "text": "kamu harus punya kualifikasi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

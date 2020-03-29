@@ -1,0 +1,68 @@
+{
+  "id": "4a47e0e9-a9f4-470e-9d23-4f5cf58eca3e",
+  "name": "_P2H Operator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "46e43b8f-2d03-439b-9217-781d1debb967",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "p2h",
+          "value": "$p2h",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "38324c2b-41a6-4953-9781-46578350787a",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b62ab3c5-7619-41db-8046-cf15002e8472",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "unit",
+          "value": "$unit",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "condition": "",
+          "speech": "Pelaporan P2H Operator saat ini dalam tahap developement . . ."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

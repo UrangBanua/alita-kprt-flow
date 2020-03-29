@@ -1,0 +1,152 @@
+[
+  {
+    "id": "a997f968-193d-4c59-bb41-426252c6e051",
+    "data": [
+      {
+        "text": "pinta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tolong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c31263c4-7118-49d6-9ead-ebcbf9cfd752",
+    "data": [
+      {
+        "text": "help",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb7eacd4-515a-4a97-9c20-541e6e2246b4",
+    "data": [
+      {
+        "text": "saya butuh bantuan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec3cb99c-1c5b-406b-ae61-f379c27c189e",
+    "data": [
+      {
+        "text": "aku butuh bantuan kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "897da71a-7040-42c1-ab9c-f4ac835e05df",
+    "data": [
+      {
+        "text": "bantu aku ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36041bfe-9a87-489f-adb2-f88ccdcc038a",
+    "data": [
+      {
+        "text": "tolong lakuin sesuatu buat aku",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98e38bbb-95bb-40b6-bcaf-4d26241b23fd",
+    "data": [
+      {
+        "text": "saya perlu bantuan kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44ee36f9-2aa1-4e5f-8b3b-0948bff296a5",
+    "data": [
+      {
+        "text": "bantuin dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5104ead8-e301-422d-9349-a6b4293b962e",
+    "data": [
+      {
+        "text": "aku mau kamu lakukan sesuatu buat aku",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f6c5451-73a2-472b-bea5-f480ede3bd46",
+    "data": [
+      {
+        "text": "bisa bantu saya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b1db1e4-113d-48de-b000-15ccd781824a",
+    "data": [
+      {
+        "text": "bantu aku soal masalah ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49dce1e8-c126-4476-afd5-30e3612715bb",
+    "data": [
+      {
+        "text": "bantu aku",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

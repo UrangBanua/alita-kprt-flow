@@ -1,0 +1,146 @@
+[
+  {
+    "id": "c86b8505-5622-4e27-9c9a-ffaea654ccc7",
+    "data": [
+      {
+        "text": "mau lapor untuk fit to work ",
+        "userDefined": false
+      },
+      {
+        "text": "KC10047",
+        "alias": "nrp",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " shift ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "shift",
+        "meta": "@ftwShift",
+        "userDefined": false
+      },
+      {
+        "text": ", keluhan saya ",
+        "userDefined": false
+      },
+      {
+        "text": "sakit kepala",
+        "alias": "lamatidur",
+        "meta": "@ftwLamatidur",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "tidak",
+        "alias": "minumobat",
+        "meta": "@ftwMinumobat",
+        "userDefined": false
+      },
+      {
+        "text": " minum obat, tidur ",
+        "userDefined": false
+      },
+      {
+        "text": "6 jam",
+        "alias": "lamatidur",
+        "meta": "@ftwLamatidur",
+        "userDefined": false
+      },
+      {
+        "text": " saja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1995440a-e905-4838-ba1f-8b2d364eaceb",
+    "data": [
+      {
+        "text": "lapor fit to work operator ",
+        "userDefined": false
+      },
+      {
+        "text": "KC10047",
+        "alias": "nrp",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "shift 1",
+        "alias": "shift",
+        "meta": "@ftwShift",
+        "userDefined": true
+      },
+      {
+        "text": ", keluhan \u003d ",
+        "userDefined": false
+      },
+      {
+        "text": "sakit kepala",
+        "alias": "lamatidur",
+        "meta": "@ftwLamatidur",
+        "userDefined": true
+      },
+      {
+        "text": ", minum obat \u003d ",
+        "userDefined": false
+      },
+      {
+        "text": "tidak",
+        "alias": "minumobat",
+        "meta": "@ftwMinumobat",
+        "userDefined": true
+      },
+      {
+        "text": ", tidur berapa lama \u003d ",
+        "userDefined": false
+      },
+      {
+        "text": "8 jam",
+        "alias": "keluhan",
+        "meta": "@ftwKeluhan",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

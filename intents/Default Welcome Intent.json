@@ -1,0 +1,47 @@
+{
+  "id": "de1fbce9-7075-479d-8209-04a9a934d9fb",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "condition": "",
+          "speech": [
+            "Hai . . , ada yang bisa saya bantu",
+            "Halo , ada yang bisa saya bantu",
+            "Selamat siang! , ada yang bisa saya bantu",
+            "Selamat malam , ada yang bisa saya bantu",
+            "Wa\u0027alaikum salam , ada yang bisa saya bantu"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

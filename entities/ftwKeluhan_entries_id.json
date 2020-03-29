@@ -1,0 +1,47 @@
+[
+  {
+    "value": "sakit kepala",
+    "synonyms": [
+      "sakit kepala",
+      "migran",
+      "vertigo",
+      "pusing"
+    ]
+  },
+  {
+    "value": "sakit perut",
+    "synonyms": [
+      "sakit perut",
+      "diare"
+    ]
+  },
+  {
+    "value": "sakit pinggang",
+    "synonyms": [
+      "sakit pinggang"
+    ]
+  },
+  {
+    "value": "tidak ada",
+    "synonyms": [
+      "tidak ada",
+      "tdk ada"
+    ]
+  },
+  {
+    "value": "lain-lain",
+    "synonyms": [
+      "lain-lain",
+      "ada"
+    ]
+  },
+  {
+    "value": "demam",
+    "synonyms": [
+      "demam",
+      "sakit demam",
+      "panas",
+      "badan panas"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "834a3a1b-fd8e-493a-9dec-8e67e53080ba",
+    "data": [
+      {
+        "text": "bagaimana cuaca ",
+        "userDefined": false
+      },
+      {
+        "text": "hari ini",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "jakarta",
+        "alias": "lokasi",
+        "meta": "@lokasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

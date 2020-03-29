@@ -1,0 +1,41 @@
+[
+  {
+    "value": "\u003c 2 Jam",
+    "synonyms": [
+      "\u003c 2 Jam",
+      "kurang dari 2 jam"
+    ]
+  },
+  {
+    "value": "3 Jam",
+    "synonyms": [
+      "3 Jam",
+      "3"
+    ]
+  },
+  {
+    "value": "4 Jam",
+    "synonyms": [
+      "4 Jam",
+      "4"
+    ]
+  },
+  {
+    "value": "5 Jam",
+    "synonyms": [
+      "5 Jam",
+      "5"
+    ]
+  },
+  {
+    "value": "\u003e\u003d 6 Jam",
+    "synonyms": [
+      "\u003e\u003d 6 Jam",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "id": "e7ad25d1-cfe3-4370-9d88-c9b0c3808e14",
+    "data": [
+      {
+        "text": "ayo perkenalkan ",
+        "userDefined": false
+      },
+      {
+        "text": "dirimu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7072e3d-0be4-4e7a-85ed-84b077d1f2d5",
+    "data": [
+      {
+        "text": "ceritakan sedikit tentang dirimu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89bebe72-4533-48af-9cae-d1a4807075ab",
+    "data": [
+      {
+        "text": "Kamu siapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a7bc5ca-8847-4e93-81fa-7fd34274775c",
+    "data": [
+      {
+        "text": "ceritain soal diri kamu dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c5d8aaf-05f1-43eb-bf5f-2143604d0f8f",
+    "data": [
+      {
+        "text": "aku ingin mengenalmu lebih baik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3acf9fab-697b-4afa-8a01-ca47b48b225e",
+    "data": [
+      {
+        "text": "coba ceritakan beberapa hal tentang diri kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74c45bdf-b6c3-4fc0-9569-b1e523bb73bf",
+    "data": [
+      {
+        "text": "beritahu aku sedikit tentang dirimu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "375b0af4-742e-4b3e-a36e-d2526c6b5902",
+    "data": [
+      {
+        "text": "beritahu beberapa hal tentang dirimu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11dc4684-60d0-4ad7-afe3-7ea10d65f45e",
+    "data": [
+      {
+        "text": "apa yang membawa kamu kemari?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e84b44c-79f3-44c7-9f13-c2c7077e8f3d",
+    "data": [
+      {
+        "text": "siapa namamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0cbbd5e-054a-41fc-9141-6b5abfea0261",
+    "data": [
+      {
+        "text": "aku ingin tahu lebih banyak tentang kamu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

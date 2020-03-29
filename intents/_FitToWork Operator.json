@@ -1,0 +1,161 @@
+{
+  "id": "9f9f378e-11c1-493b-8065-2f2ecdc22840",
+  "name": "_FitToWork Operator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.answer_my_question",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7495527b-ac96-4ec4-9e5c-c99008a63c8d",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "nrp",
+          "value": "$nrp",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Terima kasih sudah menghubungi saya untuk pelaporan Fit To Work, untuk Nrp anda berapa ?"
+            },
+            {
+              "lang": "id",
+              "value": "Terima kasih atas laporan nya, mohon sebutkan Nrp bapak ?"
+            },
+            {
+              "lang": "id",
+              "value": "Boleh di sebutkan Nrp nya Pak ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "09ec017c-ecd9-4e1c-908f-393401ff8be7",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Kapan hari ini atau besok ?"
+            },
+            {
+              "lang": "id",
+              "value": "Untuk hari ini atau besok bapak ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "98878751-6cca-4e86-a5a5-db19bb49d6f9",
+          "required": true,
+          "dataType": "@ftwShift",
+          "name": "shift",
+          "value": "$shift",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Shift berapa ?  1 atau 2"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "c9ee0c69-4228-42fb-a936-add529baea9b",
+          "required": true,
+          "dataType": "@ftwKeluhan",
+          "name": "keluhan",
+          "value": "$keluhan",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Keluhanya ?"
+            },
+            {
+              "lang": "id",
+              "value": "Keluhanya kira2 apa ya Pak ?"
+            },
+            {
+              "lang": "id",
+              "value": "mohon disebutkan keluhan anda ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "49039789-94b1-4ee3-a76a-364c344aa76d",
+          "required": true,
+          "dataType": "@ftwMinumobat",
+          "name": "minumobat",
+          "value": "$minumobat",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Minum Obat ? Iya atau Tdk"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "9d333fe0-27df-44f7-b54c-8143a05b0c3b",
+          "required": true,
+          "dataType": "@ftwLamatidur",
+          "name": "lamatidur",
+          "value": "$lamatidur",
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Tidur berapa jam ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "id",
+          "condition": "",
+          "speech": "Laporan sudah saya terima Fit To Work Operator $nrp di tanggal $date shift $shift, dengan keluhan $keluhan, minum obat $minumobat, lama tidur $lamatidur . hasil Fit To Work ini akan saya validasi ke Medic SHE serta hasil nya akan saya info kembali degan kategori kondisi pemeriksaan (*siap bekerja* , *butuh pengawasan* , *tidak boleh bekerja*). \nterima kasih."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

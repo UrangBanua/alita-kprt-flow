@@ -1,0 +1,9 @@
+{
+  "id": "cf4a1b43-1d57-432b-aa81-ec19fc5ad3f4",
+  "name": "ftwShift",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
